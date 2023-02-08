@@ -19,4 +19,4 @@ Caleb bii.
 ### Built With 
 * Ruby
 ### License
-[MIT Lisence](https://github.com/Calebbii/Portfolio/blob/master/LICENSE) Copyright (c) 2023 Calebbii.
+[MIT Lisence](https://github.com/Calebbii/HackerRankSolved-challenges-/blob/ruby/LICENSE) Copyright (c) 2023 Calebbii.
